@@ -6,6 +6,13 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" },	
-  "users" : [],
+  "users" : [
+    {
+		    "Username": "a",
+		    "Email": "a@gmail.com",
+		    "Password": "a",
+		    "id": 1
+		  }
+  ],
   "companies" : []
 }
